@@ -3,7 +3,7 @@
 
 # Cross-Camera Player Mapping (Football AI)
 
-It is=s an end-to-end computer vision system to detect, track, and identify football players across multiple camera angles.  
+It is an end-to-end computer vision system to detect, track, and identify football players across multiple camera angles.  
 It uses YOLOv11 for object detection, ResNet50 for appearance feature extraction, and custom logic to assign consistent global IDs across unsynced video feeds.
 
 ---
